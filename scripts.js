@@ -76,7 +76,127 @@ const questions = [
     choices: ["Pellicle formation", "Colonization by bacteria", "Maturation of plaque", "Mineralization"],
     correctAnswer: "Pellicle formation",
     explanation: "The first stage of plaque formation involves the formation of a pellicle, a protein film on the tooth surface."
-  }
+  },
+   {
+    question: "What is the most common complication of wisdom tooth extraction?",
+    choices: ["Dry socket", "Infection", "Nerve injury", "Excessive bleeding"],
+    correctAnswer: "Dry socket",
+    explanation: "Dry socket occurs when the blood clot at the extraction site dislodges or dissolves."
+  },
+  {
+    question: "What is the recommended concentration of fluoride in drinking water to prevent dental caries?",
+    choices: ["0.5 ppm", "1.0 ppm", "1.5 ppm", "2.0 ppm"],
+    correctAnswer: "1.0 ppm",
+    explanation: "The optimal fluoride concentration in drinking water for caries prevention is around 1.0 ppm."
+  },
+  {
+    question: "Which bacteria is primarily associated with dental caries?",
+    choices: ["Streptococcus mutans", "Porphyromonas gingivalis", "Lactobacillus acidophilus", "Fusobacterium nucleatum"],
+    correctAnswer: "Streptococcus mutans",
+    explanation: "Streptococcus mutans plays a major role in the formation of dental caries."
+  },
+  {
+    question: "Which of the following is the first sign of gingivitis?",
+    choices: ["Bleeding gums", "Gum recession", "Tooth mobility", "Bone loss"],
+    correctAnswer: "Bleeding gums",
+    explanation: "Bleeding gums during brushing or spontaneously is an early sign of gingivitis."
+  },
+  {
+    question: "What is the term for inflammation of the tongue?",
+    choices: ["Glossitis", "Stomatitis", "Gingivitis", "Pericoronitis"],
+    correctAnswer: "Glossitis",
+    explanation: "Glossitis refers to inflammation of the tongue, often characterized by swelling, pain, or changes in color."
+  },
+  {
+    question: "Which of the following is the best imaging method for detecting interproximal caries?",
+    choices: ["Bitewing radiographs", "Periapical radiographs", "Panoramic radiographs", "Occlusal radiographs"],
+    correctAnswer: "Bitewing radiographs",
+    explanation: "Bitewing radiographs are the most effective for detecting interproximal caries between teeth."
+  },
+  {
+    question: "Which is the first stage in plaque formation?",
+    choices: ["Pellicle formation", "Bacterial colonization", "Mineralization", "Maturation"],
+    correctAnswer: "Pellicle formation",
+    explanation: "Pellicle formation is the first stage of plaque development, where a protein film forms on the tooth surface."
+  },
+  {
+    question: "What is the recommended treatment for a small cavity in the enamel?",
+    choices: ["Filling", "Crown", "Root canal", "No treatment"],
+    correctAnswer: "Filling",
+    explanation: "A filling is typically used to restore small cavities in the enamel."
+  },
+  {
+    question: "Which of the following is the main cause of bad breath (halitosis)?",
+    choices: ["Oral bacteria", "Tooth decay", "Tonsillitis", "Dry mouth"],
+    correctAnswer: "Oral bacteria",
+    explanation: "The anaerobic bacteria in the mouth break down food and produce sulfur compounds that cause bad breath."
+  },
+  {
+    question: "What is the proper management for an avulsed permanent tooth?",
+    choices: ["Reimplant immediately", "Place in water", "Wait for swelling to subside", "Cover with gauze and visit the dentist"],
+    correctAnswer: "Reimplant immediately",
+    explanation: "An avulsed permanent tooth should be reimplanted immediately if possible, or stored in milk until a dentist can reimplant it."
+  },
+  {
+    question: "What is the most common site for oral cancer?",
+    choices: ["Tongue", "Gingiva", "Buccal mucosa", "Hard palate"],
+    correctAnswer: "Tongue",
+    explanation: "The tongue, particularly the lateral borders, is the most common site for oral cancer."
+  },
+  {
+    question: "Which condition is characterized by the absence of several teeth from birth?",
+    choices: ["Hypodontia", "Hyperdontia", "Amelogenesis imperfecta", "Oligodontia"],
+    correctAnswer: "Hypodontia",
+    explanation: "Hypodontia refers to the congenital absence of fewer than six teeth."
+  },
+  {
+    question: "What is the most common cause of pulpitis?",
+    choices: ["Dental caries", "Gum disease", "Trauma", "Oral infection"],
+    correctAnswer: "Dental caries",
+    explanation: "Pulpitis is commonly caused by deep caries that reach the pulp of the tooth, resulting in inflammation."
+  },
+  {
+    question: "Which of the following is most commonly associated with periodontal disease?",
+    choices: ["Plaque", "Tooth decay", "Bruxism", "Dry mouth"],
+    correctAnswer: "Plaque",
+    explanation: "Plaque accumulation on teeth and gums is the primary cause of periodontal disease."
+  },
+  {
+    question: "What is the function of a dental dam during a procedure?",
+    choices: ["Isolate the tooth", "Prevent infection", "Reduce bleeding", "Protect the gums"],
+    correctAnswer: "Isolate the tooth",
+    explanation: "A dental dam isolates the tooth being treated to prevent saliva contamination and improve visibility."
+  },
+  {
+    question: "Which instrument is used to measure pocket depth around a tooth?",
+    choices: ["Periodontal probe", "Scaler", "Curette", "Explorer"],
+    correctAnswer: "Periodontal probe",
+    explanation: "A periodontal probe is used to measure the depth of the gum pockets to assess periodontal health."
+  },
+  {
+    question: "What is the recommended treatment for pericoronitis?",
+    choices: ["Irrigation and antibiotics", "Extraction", "Filling", "Root canal"],
+    correctAnswer: "Irrigation and antibiotics",
+    explanation: "Pericoronitis is often treated with irrigation of the infected area and antibiotics to clear the infection."
+  },
+  {
+    question: "What is the most common type of oral fungal infection?",
+    choices: ["Candidiasis", "Leukoplakia", "Lichen planus", "Pemphigus vulgaris"],
+    correctAnswer: "Candidiasis",
+    explanation: "Oral candidiasis, or thrush, is the most common fungal infection in the mouth."
+  },
+  {
+    question: "Which of the following is a common symptom of temporomandibular joint dysfunction (TMD)?",
+    choices: ["Jaw pain", "Toothache", "Gum swelling", "Bleeding gums"],
+    correctAnswer: "Jaw pain",
+    explanation: "TMD often presents as jaw pain, clicking, and restricted movement of the jaw."
+  },
+  {
+    question: "What is the primary role of fluoride in preventing dental caries?",
+    choices: ["Remineralization", "Whitening", "Desensitizing", "Stain removal"],
+    correctAnswer: "Remineralization",
+    explanation: "Fluoride helps remineralize enamel and prevent decay by making teeth more resistant to acid attacks."
+  },
   // Add more questions following the same structure, up to 50 questions
 ];
 
