@@ -17,6 +17,66 @@ const questions = [
     correctAnswer: "5000 ppm",
     explanation: "A higher fluoride concentration (5000 ppm) is recommended for adults at high risk of caries."
   },
+    {
+    question: "Which type of caries is typically seen in older adults?",
+    choices: ["Enamel caries", "Root caries", "Fissure caries", "Incisal caries"],
+    correctAnswer: "Root caries",
+    explanation: "Root caries is more common in older adults due to gum recession exposing the root surfaces."
+  },
+  {
+    question: "Which of the following is a sign of temporomandibular joint dysfunction (TMD)?",
+    choices: ["Clicking sound", "Swelling", "Pain in the lower teeth", "Tongue ulcers"],
+    correctAnswer: "Clicking sound",
+    explanation: "A clicking sound in the temporomandibular joint is a common sign of TMD."
+  },
+  {
+    question: "Which condition is commonly associated with bruxism?",
+    choices: ["Sleep apnea", "GERD", "Oral candidiasis", "Cleft palate"],
+    correctAnswer: "Sleep apnea",
+    explanation: "Bruxism is often associated with sleep disorders such as obstructive sleep apnea."
+  },
+  {
+    question: "Which instrument is used to remove subgingival calculus?",
+    choices: ["Curette", "Scaler", "Explorer", "Mirror"],
+    correctAnswer: "Curette",
+    explanation: "Curettes are used to remove subgingival calculus during periodontal scaling and root planing."
+  },
+  {
+    question: "Which bacteria are most commonly implicated in dental caries?",
+    choices: ["Streptococcus mutans", "Lactobacillus", "Staphylococcus aureus", "Porphyromonas gingivalis"],
+    correctAnswer: "Streptococcus mutans",
+    explanation: "Streptococcus mutans are the primary bacteria involved in the initiation of dental caries."
+  },
+  {
+    question: "What is the main cause of halitosis?",
+    choices: ["Oral bacteria", "Tooth decay", "Gum disease", "Xerostomia"],
+    correctAnswer: "Oral bacteria",
+    explanation: "Oral bacteria, particularly those in anaerobic conditions, are the primary cause of bad breath."
+  },
+  {
+    question: "What is the proper treatment for a patient with a chipped tooth involving the enamel only?",
+    choices: ["Crown", "Filling", "Bonding", "Extraction"],
+    correctAnswer: "Bonding",
+    explanation: "Dental bonding is a common treatment for minor enamel chips."
+  },
+  {
+    question: "Which muscle is primarily responsible for jaw closure?",
+    choices: ["Masseter", "Temporalis", "Lateral pterygoid", "Medial pterygoid"],
+    correctAnswer: "Masseter",
+    explanation: "The masseter muscle is one of the main muscles responsible for closing the jaw."
+  },
+  {
+    question: "Which condition is characterized by inflammation of the mucous membranes of the mouth?",
+    choices: ["Stomatitis", "Glossitis", "Gingivitis", "Periodontitis"],
+    correctAnswer: "Stomatitis",
+    explanation: "Stomatitis refers to inflammation of the mucous membranes lining the mouth."
+  },
+  {
+    question: "What is the first stage of plaque formation?",
+    choices: ["Pellicle formation", "Colonization by bacteria", "Maturation of plaque", "Mineralization"],
+    correctAnswer: "Pellicle formation",
+    explanation: "The first stage of plaque formation involves the formation of a pellicle, a protein film on the tooth surface."
+  }
   // Add more questions following the same structure, up to 50 questions
 ];
 
